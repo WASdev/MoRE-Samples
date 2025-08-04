@@ -69,7 +69,7 @@ The app [modResort](https://github.com/WASdev/more-techXchange-lab/releases/down
 
 2. Go to **Applications** &rarr; **New Application** &rarr; <ins>New Enterprise Application</ins>.
 
-   ![](../assets/install-new-app.png)
+   ![](assets/install-new-app.png)
 
 3. In the installation panel:
 
@@ -77,7 +77,7 @@ The app [modResort](https://github.com/WASdev/more-techXchange-lab/releases/down
    * Set **Target Runtime Environment** to `WebSphere Liberty`
    
    Click **Next** and wait for the application to upload.
-![](../assets/modresort-app-install.png)
+![](assets/modresort-app-install.png)
 
 4. Choose **Fast Path** and click **Next**.
 
