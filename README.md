@@ -103,7 +103,7 @@ The app [modResort](https://github.com/WASdev/more-techXchange-lab/releases/down
 10. Start the Managed Liberty server `demo`, by following the following instructions.
    * Go to **Servers** &rarr; **Server Types** &rarr; **WebSphere Application Servers** &rarr;
    * Click on the checkbox next to `demo` and click on `Start` button. 
-   ![](start-demo-mls.png)
+   ![](assets/start-demo-mls.png)
    Both the server and the app should be started.
 11. Try out the application
    * On a terminal window, go the `demo` MLS and then display `console.log` e.g. (cat /opt/IBM/WASND/profiles/AppSrv01/managedLiberty/usr/servers/demo/logs/console.log). 
